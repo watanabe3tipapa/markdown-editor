@@ -770,6 +770,9 @@ As always, thanks to our amazing contributors!
 <a href="https://github.com/avalero" title="Alberto Valero Gómez">
   <img src="https://avatars.githubusercontent.com/u/1442682?v=4" width="42;" alt="Alberto Valero Gómez"/>
 </a>
+<a href="https://github.com/watanabe3tipapa" title="Toru Watanabe">
+  <img src="https://avatars.githubusercontent.com/u/1008132?v=4" width="42;" alt="Toru Watanabe"/>
+</a>
 <a href="https://github.com/alphacoma18" title="Alpha Coma">
   <img src="https://avatars.githubusercontent.com/u/108984668?v=4" width="42;" alt="Alpha Coma"/>
 </a>
@@ -802,9 +805,6 @@ As always, thanks to our amazing contributors!
 </a>
 <a href="https://github.com/toresbe" title="Tore Sinding Bekkedal">
   <img src="https://avatars.githubusercontent.com/u/1761606?v=4" width="42;" alt="Tore Sinding Bekkedal"/>
-</a>
-<a href="https://github.com/watanabe3tipapa" title="Toru Watanabe">
-  <img src="https://avatars.githubusercontent.com/u/1008132?v=4" width="42;" alt="Toru Watanabe"/>
 </a>
 <a href="https://github.com/valenfv" title="Valentin">
   <img src="https://avatars.githubusercontent.com/u/34139820?v=4" width="42;" alt="Valentin"/>
